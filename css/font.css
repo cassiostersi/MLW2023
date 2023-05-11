@@ -1,0 +1,17 @@
+.serif{
+    font-family: 'Times New Roman', Times, serif;
+}
+.nserif{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.mono{
+    font-family:monospace;
+}
+.fs{
+    font-style: oblique;
+}
+.fw{
+    font-weight:800;
+    font-variant: small-caps;
+    font-size: 30px;
+}

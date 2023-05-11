@@ -1,0 +1,19 @@
+.bgcolor {
+    background-color: burlywood;
+    height: 50px;
+    width: 500px;
+}
+.bgimage{
+    background-image: url(../img/fundo.jpg);
+    background-repeat: no-repeat;
+    height: 200px;
+    background-size: contain;
+}
+/*.bgimage p{
+    background-color: blueviolet;
+}*/
+
+body{
+    background-image: url(../img/fb.jpg);
+    background-attachment: fixed;
+}
